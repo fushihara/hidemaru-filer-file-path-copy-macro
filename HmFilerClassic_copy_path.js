@@ -1,3 +1,4 @@
+// save sjis
 var items = [];
 getSelectedItems(items);
 getCurrentDirectory(items);
